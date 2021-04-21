@@ -21,3 +21,10 @@ p{
     text-align:left;
     font-family: 'Dela Gothic One', cursive;
 }
+
+ol {
+    list-style-type: circle;
+    border-style: solid;
+
+}
+
